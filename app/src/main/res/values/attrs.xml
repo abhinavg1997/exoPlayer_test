@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="LinePagerIndicatorDecoration">
+        <attr name="itemcount" format="integer"/>
+    </declare-styleable>
+    
+</resources>
